@@ -2,7 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="700" height="300"/>
 </div>
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=Fatemeh Atighi&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-pink?logo=Fatemeh Atighi&logoColor=white">
 <!--
 **Baharehatighi/Baharehatighi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
