@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="700" height="300"/>
+  <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif" width="300" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Fatemeh Atighi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
